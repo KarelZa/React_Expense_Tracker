@@ -5,4 +5,4 @@
 - Allows user filter expenses through year selection
 
 Build with React JS
-live preview 
+live preview https://karelza.github.io/React_Expense_Tracker/
