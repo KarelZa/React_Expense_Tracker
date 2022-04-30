@@ -2,7 +2,7 @@
 	"name": "expense_tracker",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://karelza.github.io/React_Expense_Tracker",
+	"homepage": "http://karelza.github.io/expense-tracker",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.6",
 		"@testing-library/react": "^11.2.2",
